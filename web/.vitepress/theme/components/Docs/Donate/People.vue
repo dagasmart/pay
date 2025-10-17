@@ -13,7 +13,7 @@
     { nickname: '**波', intent: '￥10.00' },
     { nickname: '*※', intent: '￥8.88' },
     { nickname: '往**', intent: '￥19.80' },
-    { nickname: '建*u', intent: '￥17.60' },
+    { nickname: '建*u', intent: '￥106.40' },
     { nickname: '*酱', intent: '￥20.00' },
     { nickname: '*※', intent: '￥10.00' },
     { nickname: 'N*s', intent: '￥10.00' },
